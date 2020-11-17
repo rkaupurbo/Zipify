@@ -1,0 +1,598 @@
+@media(max-width:1399px){
+
+	.banner_section {
+		padding: 110px 0 90px;
+
+	}
+
+	.banner_inner {
+	    position: initial;
+	    padding-left: 50px;
+	}
+	.product_section {
+	    padding: 55px 0 80px;
+	}
+
+}
+
+
+@media(max-width:1199px){
+
+	.banner_section {
+		padding: 100px 0 70px;
+
+	}
+
+
+	.banner_inner {
+
+	    padding-left: 50px;
+	}
+
+	.head_logo{
+		max-width: 360px;
+	}
+
+	.banner_inner h1 {
+	    font-size: 36px;
+	    max-width: 333px;
+	    margin-top: 10px;
+	}
+	
+	.product_section {
+	    padding: 50px 0 70px;
+	}
+
+	.head-left-pic {
+	    margin-top: 59px;
+	}
+
+	.banner_inner .btn-custom {
+	    margin: 0;
+	    border-radius: 0;
+	}
+
+	.banner_inner li {
+	    font-size: 16px;
+	    font-weight: 600;
+	}
+
+	footer {
+	    padding: 20px 0 10px;
+	}
+
+
+	/*********************************/
+
+	.changing_section h1 {
+	    font-size: 26px;
+	    max-width: 396px;
+	}
+
+	.changing_section p {
+	    font-size: 18px;
+	    max-width: 456px;
+	    margin-bottom: 20px;
+	}
+
+	.changing_section .btn-custom {
+	    padding: 13px 50px;
+	    margin: 0;
+	    font-size: 18px;
+	    border-radius: 0;
+	}
+
+
+	.changing_section .about_img {
+	    width: 400px;
+	}
+
+	.ezra_img {
+	    max-width: 100%;
+	    margin-top: 55px;
+	}
+
+	.ezra_section h1 {
+	    font-size: 26px;
+	    max-width: 283px;
+	    color: #56565E;
+	}
+
+	.ezra_section p {
+	    font-size: 16px;
+	    max-width: 496px;
+	    line-height: 1.6;
+	}
+
+	.ezra_text {
+	    padding: 0px 0 45px 60px;
+	}
+
+	/********************************/
+	.contact_text {
+	    top: 29%;
+	    
+	}
+
+
+
+}
+
+
+
+@media(max-width:991px){
+
+	.banner_section {
+	    padding: 100px 0 40px;
+	}
+
+	.bg-light {
+	    padding: 15px 0;
+	}
+
+	.head_logo {
+	    max-width: 301px;
+	}
+
+	
+
+	.banner_inner {
+	    position: initial;
+	    width: 100%;
+	    margin: 0 auto;
+	    padding-top: 20px;
+	    padding-bottom: 20px;
+	    padding-left: 7px;
+	}
+
+	.banner_inner h1 {
+	    font-size: 30px;
+	    max-width: 280px;
+	}
+
+	.banner_inner li {
+	    font-size: 16px;
+	}
+
+	.banner_inner .btn-custom {
+	    padding: 10px 50px;
+	    font-size: 18px;
+	    border-radius: 0;
+	}
+
+	.ecommerce_section h1 {
+	    font-size: 30px;
+	}
+
+	.ecommerce_section p {
+	    font-size: 16px;
+	    line-height: 1.7;
+	    max-width: 620px;
+	}
+
+	.ecommerce_section .btn-custom {
+	    font-size: 18px;
+	    padding: 10px 50px;
+	}
+
+	.product_section p {
+	    font-size: 16px;
+	    line-height: 1.7;
+	    padding: 0 15px;
+	    text-align: left;
+	    margin-bottom: 20px;
+	}
+
+	.feature_img {
+	    padding: 50px 30px;
+	}
+
+	.product_section .btn-custom {
+	    font-size: 18px;
+	    padding: 10px 50px;
+	}
+
+	.footer_widget h6 {
+	    font-size: 22px;
+	}
+
+	.footer_widget a {
+	    line-height: 2.1;
+	    font-size: 16px;
+	}
+
+	footer p {
+	    font-size: 14px;
+	}
+
+
+	/********************************/
+
+
+	.changing_section .about_img {
+	    width: 330px;
+	}
+
+	.changing_section h1 {
+	    font-size: 22px;
+	    max-width: 332px;
+	}
+
+	.changing_section p {
+	    font-size: 16px;
+	    max-width: 330px;
+	}
+
+	.changing_section .btn-custom {
+	    padding: 11px 35px;
+	    margin: 0;
+	    font-size: 16px;
+	    border-radius: 0;
+	}
+
+	.ezra_section h1 {
+	    font-size: 22px;
+	}
+
+	.ezra_section p {
+	    font-size: 16px;
+	    max-width: 385px;
+	    line-height: 1.6;
+	}
+
+	.ezra_text {
+	    padding: 0px 0 45px 15px;
+	}
+
+	.btn-link {
+	    font-size: 17px;
+	}
+
+	.contact_section h3 {
+	    font-size: 20px;
+	}
+
+	.contact_section h1 {
+	    font-size: 22px;
+	    max-width: 520px;
+	}
+
+	.form-control {
+	    padding: 11px 27px;
+	}
+
+	.contact_section .btn-primary {
+	    padding: 11px 30px;
+	}
+
+	/**************************/
+
+	.contact_text {
+	    top: 23%;
+	    right: 8%;
+	}
+
+	.contact_text p {
+    max-width: 286px;
+    margin: 20px 0 0;
+}
+
+
+	
+}
+
+
+
+@media(max-width:767px){
+
+	.banner_section {
+	   
+	}
+
+	.banner_section .col-sm-12 {
+	    text-align: center;
+	}
+
+	.head-left-pic {
+	    width: 50%;
+	    margin-top: 0;
+	}
+
+	.bg-light {
+	    padding: 10px 0;
+	}
+
+	.banner_inner {
+
+	    text-align: left;
+	    padding-left: 70px;
+	}
+
+	.banner_inner .btn-custom {
+	    padding: 10px 35px;
+	    font-size: 16px;
+	    border-radius: 0;
+	}
+
+	.ecommerce_section h1 {
+	    font-size: 22px;
+	}
+
+	.ecommerce_section p {
+	    font-size: 14px;
+	    max-width: 507px;
+	}
+
+	.ecommerce_section .btn-custom {
+	    font-size: 16px;
+	    padding: 10px 35px;
+	}
+
+	.feature_img {
+	    padding: 36px 13px;
+	}
+
+	.product_section p {
+	    font-size: 14px;
+	    padding: 0 0px;
+	    margin-bottom: 16px;
+	}
+
+	.product_section .btn-custom {
+	    font-size: 16px;
+	    padding: 10px 36px;
+	}
+
+	.footer_widget h6 {
+	    font-size: 16px;
+	}
+
+	.footer_widget a {
+	    line-height: 2.1;
+	    font-size: 14px;
+	}
+
+	footer ul li .fa {
+	    font-size: 16px;
+	}
+
+	/********************************/
+
+	.changing_section .about_img {
+	    width: 244px;
+	}
+
+	.changing_section h1 {
+	    font-size: 20px;
+	    max-width: 220px;
+	}
+
+		.changing_section p {
+	    font-size: 16px;
+	    max-width: 246px;
+	}
+
+	.changing_section .row{
+		align-items: start;
+	}
+
+	.changing_section .btn-custom {
+	    padding: 8px 21px;
+	}
+
+	.contact_section h3 {
+	    font-size: 18px;
+	}
+
+	.contact_section h1 {
+	    font-size: 20px;
+	    max-width: 475px;
+	}
+
+	.contact_section .btn-primary {
+	    padding: 11px 13px;
+	    font-size: 15px;
+	}
+
+	.form-control {
+	    padding: 11px 27px;
+	    margin: 0 auto 15px;
+	}
+
+	.contact_section .btn-primary {
+	    padding: 11px 60px;
+	    font-size: 15px;
+	    margin: 0 auto;
+	}
+
+	/*********************/
+
+	.contact_text p {
+	    font-size: 14px;
+	}
+
+	.contact_text {
+	    top: 21%;
+	    right: 4%;
+	}
+	
+}
+
+
+
+@media(max-width:575px){
+
+	.bg-light {
+	    padding: 5px 0;
+	}
+
+	.banner_section {
+	    
+	}
+
+	.banner_section .col-sm-12 {
+	    text-align: center;
+	}
+
+	.head-left-pic {
+	    width: 250px;
+	}
+
+	.head_logo {
+	    max-width: 230px;
+	}
+
+	.banner_inner {
+	    position: inherit;
+	    padding-top: 30px;
+	    padding-left: 70px;
+	    text-align: left;
+	}
+
+	.banner_inner h1 {
+	    font-size: 22px;
+	    max-width: 207px;
+	}
+
+	.banner_inner li {
+	    font-size: 14px;
+	}
+
+
+	.banner_inner .btn-custom {
+	    padding: 7px 21px;
+	    font-size: 14px;
+	    border-radius: 0;
+	}
+
+	.ecommerce_section h1 {
+	    font-size: 20px;
+	}
+
+	.ecommerce_section p {
+	    font-size: 14px;
+	    max-width: 294px;
+	}
+
+	.ecommerce_section .btn-custom {
+	    font-size: 14px;
+	    padding: 8px 21px;
+	}
+
+	.product_section {
+	    padding: 25px 0;
+	}
+
+	.features {
+	    margin: 20px 0;
+	}
+
+	footer ul {
+	    text-align: center;
+	    padding-left: 0;
+	}
+
+	/***********************/
+
+	.or-1{
+		order: 1;
+	}
+
+	.or-2{
+		order: 2;
+		text-align: center;
+	}
+
+	.changing_section {
+	    background: linear-gradient(159deg, rgb(33 150 243 / 8%) 0%,rgb(76 175 80 / 4%) 50%,rgba(255,255,255,0.1) 50%,rgb(204 204 204 / 5%) 50%,rgb(204 204 204 / 0%) 90%);
+	    padding: 80px 0 30px;
+	}
+
+	.changing_section .about_img {
+	    max-width: 100%;
+	}
+
+	.changing_section h1 {
+	    font-size: 18px;
+	    max-width: 100%;
+	    text-align: center;
+	    padding-top: 20px;
+	}
+
+	.changing_section p {
+	    font-size: 16px;
+	    max-width: 100%;
+	    text-align: center;
+	}
+
+	.ezra_section {
+	    padding: 0px 0 0;
+	}
+
+	.ezra_section h1 {
+	    font-size: 20px;
+	    margin-top: 20px;
+	}
+
+	.contact_section h3 {
+	    font-size: 16px;
+	    line-height: 1.6;
+	    max-width: 200px;
+	    margin: 0 auto;
+	}
+
+	.contact_section h1 {
+	    font-size: 18px;
+	    max-width: 271px;
+	}
+
+	.form-control {
+	    padding: 9px 5px;
+	    margin: 0 auto 10px;
+	    width: 80%;
+	}
+
+	.contact_section .btn-primary {
+	    padding: 11px 37px;
+	    font-size: 15px;
+	    margin: 0 auto;
+	}
+
+	.contact_section {
+	    padding: 50px 0 50px;
+	}
+
+	.contact_text {
+	    position: inherit;
+	    text-align: center;
+	}
+
+	section {
+	    padding: 30px 0;
+	}
+	
+	
+
+	.banner_section ul{
+		padding-left: 0;
+	}
+		
+}
+
+@media(max-width:480px){
+
+	.banner_section {
+	    padding: 85px 0 40px;
+	}
+
+	.head-left-pic {
+	    width: 200px;
+	}
+
+	.banner_inner {
+	    padding-top: 30px;
+	    padding-left: 30px;
+	    text-align: left;
+	}
+	
+}
